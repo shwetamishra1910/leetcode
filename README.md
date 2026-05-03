@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shwetamishra1910/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
