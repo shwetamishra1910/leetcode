@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shwetamishra1910/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shwetamishra1910/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shwetamishra1910/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shwetamishra1910/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/shwetamishra1910/leetcode/tree/master/0771-jewels-and-stones) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
 ## String
