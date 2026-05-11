@@ -18,7 +18,7 @@ class Solution {
         }
         ListNode tail1 = temp;
         ListNode head2 = tail1.next;
-       
+        
         for(int i=1; i<=right-left+1; i++){
             temp = temp.next;
         }
