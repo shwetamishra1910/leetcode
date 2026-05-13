@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shwetamishra1910/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shwetamishra1910/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shwetamishra1910/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shwetamishra1910/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shwetamishra1910/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shwetamishra1910/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shwetamishra1910/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/shwetamishra1910/leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
