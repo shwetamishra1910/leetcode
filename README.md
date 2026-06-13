@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/shwetamishra1910/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shwetamishra1910/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shwetamishra1910/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shwetamishra1910/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shwetamishra1910/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shwetamishra1910/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shwetamishra1910/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shwetamishra1910/leetcode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/shwetamishra1910/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shwetamishra1910/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shwetamishra1910/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
