@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/shwetamishra1910/leetcode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0697-degree-of-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shwetamishra1910/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shwetamishra1910/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/shwetamishra1910/leetcode/tree/master/0771-jewels-and-stones) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
