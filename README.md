@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shwetamishra1910/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shwetamishra1910/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/shwetamishra1910/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
