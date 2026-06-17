@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/shwetamishra1910/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0697-degree-of-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/shwetamishra1910/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shwetamishra1910/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shwetamishra1910/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shwetamishra1910/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shwetamishra1910/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/shwetamishra1910/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
