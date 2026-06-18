@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/shwetamishra1910/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shwetamishra1910/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shwetamishra1910/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shwetamishra1910/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
