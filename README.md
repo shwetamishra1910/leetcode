@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shwetamishra1910/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/shwetamishra1910/leetcode/tree/master/0441-arranging-coins) |
+| [2485-find-the-pivot-integer](https://github.com/shwetamishra1910/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shwetamishra1910/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shwetamishra1910/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/shwetamishra1910/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/shwetamishra1910/leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
 | ------- |
