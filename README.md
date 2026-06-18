@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shwetamishra1910/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/shwetamishra1910/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shwetamishra1910/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shwetamishra1910/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3663-find-the-least-frequent-digit](https://github.com/shwetamishra1910/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/shwetamishra1910/leetcode/tree/master/0441-arranging-coins) |
 | [2485-find-the-pivot-integer](https://github.com/shwetamishra1910/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shwetamishra1910/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3663-find-the-least-frequent-digit](https://github.com/shwetamishra1910/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shwetamishra1910/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shwetamishra1910/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3663-find-the-least-frequent-digit](https://github.com/shwetamishra1910/leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
