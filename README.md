@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shwetamishra1910/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0503-next-greater-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shwetamishra1910/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
 ## Merge Sort
 |  |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shwetamishra1910/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/shwetamishra1910/leetcode/tree/master/0441-arranging-coins) |
 | [2540-minimum-common-value](https://github.com/shwetamishra1910/leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
