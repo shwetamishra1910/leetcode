@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shwetamishra1910/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shwetamishra1910/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/shwetamishra1910/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shwetamishra1910/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shwetamishra1910/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shwetamishra1910/leetcode/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Monotonic Stack
 |  |
