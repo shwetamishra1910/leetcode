@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shwetamishra1910/leetcode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/shwetamishra1910/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/shwetamishra1910/leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shwetamishra1910/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shwetamishra1910/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shwetamishra1910/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -290,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shwetamishra1910/leetcode/tree/master/1051-height-checker) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shwetamishra1910/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shwetamishra1910/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
