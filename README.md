@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/shwetamishra1910/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shwetamishra1910/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3663-find-the-least-frequent-digit](https://github.com/shwetamishra1910/leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shwetamishra1910/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shwetamishra1910/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
