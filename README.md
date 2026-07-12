@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shwetamishra1910/leetcode/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/shwetamishra1910/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shwetamishra1910/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/shwetamishra1910/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shwetamishra1910/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shwetamishra1910/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2485-find-the-pivot-integer](https://github.com/shwetamishra1910/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shwetamishra1910/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/shwetamishra1910/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shwetamishra1910/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetamishra1910/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/shwetamishra1910/leetcode/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shwetamishra1910/leetcode/tree/master/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shwetamishra1910/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
