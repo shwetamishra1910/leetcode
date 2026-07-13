@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetamishra1910/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shwetamishra1910/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/shwetamishra1910/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shwetamishra1910/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shwetamishra1910/leetcode/tree/master/0217-contains-duplicate) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shwetamishra1910/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shwetamishra1910/leetcode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shwetamishra1910/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/shwetamishra1910/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shwetamishra1910/leetcode/tree/master/0292-nim-game) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/shwetamishra1910/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shwetamishra1910/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shwetamishra1910/leetcode/tree/master/0682-baseball-game) |
