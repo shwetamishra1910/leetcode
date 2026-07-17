@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shwetamishra1910/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shwetamishra1910/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shwetamishra1910/leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/shwetamishra1910/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/shwetamishra1910/leetcode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/shwetamishra1910/leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/shwetamishra1910/leetcode/tree/master/0771-jewels-and-stones) |
