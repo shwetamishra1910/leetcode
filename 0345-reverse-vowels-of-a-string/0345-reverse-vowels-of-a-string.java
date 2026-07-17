@@ -8,11 +8,11 @@ class Solution {
         int i=0;
         int j = s.length()-1;
         while(i<j){
-            if(isVowel(sb.charAt(i))){
-                if(isVowel(sb.charAt(j))){
+            if(isVowel(s.charAt(i))){
+                if(isVowel(s.charAt(j))){
                     //swap
-                    char temp = sb.charAt(i);
-                    sb.setCharAt(i,sb.charAt(j));
+                    char temp = s.charAt(i);
+                    sb.setCharAt(i,s.charAt(j));
                     sb.setCharAt(j , temp);
                     i++;
                     j--;
