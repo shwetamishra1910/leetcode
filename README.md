@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shwetamishra1910/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/shwetamishra1910/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/shwetamishra1910/leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/shwetamishra1910/leetcode/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shwetamishra1910/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shwetamishra1910/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shwetamishra1910/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shwetamishra1910/leetcode/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/shwetamishra1910/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/shwetamishra1910/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shwetamishra1910/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/shwetamishra1910/leetcode/tree/master/0509-fibonacci-number) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/shwetamishra1910/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/shwetamishra1910/leetcode/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shwetamishra1910/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/2390-removing-stars-from-a-string) |
