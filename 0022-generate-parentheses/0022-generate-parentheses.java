@@ -4,6 +4,7 @@ class Solution {
     public static void helper(int n, int l, int r, String s , List<String> ans){
         if(r==n){
             ans.add(s);
+            return;
         }
         if(l<n) helper(n,l+1,r,s+"(",ans);
         if(r<l) helper(n,l,r+1,s+")",ans);
