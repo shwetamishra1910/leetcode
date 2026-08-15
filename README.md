@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shwetamishra1910/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shwetamishra1910/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shwetamishra1910/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetamishra1910/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -367,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
