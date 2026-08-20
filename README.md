@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetamishra1910/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/shwetamishra1910/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shwetamishra1910/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/shwetamishra1910/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shwetamishra1910/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0229-majority-element-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetamishra1910/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/shwetamishra1910/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shwetamishra1910/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shwetamishra1910/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
