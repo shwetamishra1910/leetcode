@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shwetamishra1910/leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/shwetamishra1910/leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/shwetamishra1910/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shwetamishra1910/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/shwetamishra1910/leetcode/tree/master/1046-last-stone-weight) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/shwetamishra1910/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shwetamishra1910/leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/shwetamishra1910/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/shwetamishra1910/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
