@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shwetamishra1910/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shwetamishra1910/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/shwetamishra1910/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetamishra1910/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetamishra1910/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shwetamishra1910/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/shwetamishra1910/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shwetamishra1910/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetamishra1910/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shwetamishra1910/leetcode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/shwetamishra1910/leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
