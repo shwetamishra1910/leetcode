@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/shwetamishra1910/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/shwetamishra1910/leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shwetamishra1910/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0697-degree-of-an-array) |
+| [0763-partition-labels](https://github.com/shwetamishra1910/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/shwetamishra1910/leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/shwetamishra1910/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shwetamishra1910/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shwetamishra1910/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/shwetamishra1910/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/shwetamishra1910/leetcode/tree/master/0520-detect-capital) |
+| [0763-partition-labels](https://github.com/shwetamishra1910/leetcode/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/shwetamishra1910/leetcode/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shwetamishra1910/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shwetamishra1910/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shwetamishra1910/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/shwetamishra1910/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/shwetamishra1910/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/shwetamishra1910/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/shwetamishra1910/leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shwetamishra1910/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shwetamishra1910/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
