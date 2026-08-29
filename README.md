@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shwetamishra1910/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/shwetamishra1910/leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/shwetamishra1910/leetcode/tree/master/1051-height-checker) |
+| [1052-grumpy-bookstore-owner](https://github.com/shwetamishra1910/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/shwetamishra1910/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shwetamishra1910/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shwetamishra1910/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shwetamishra1910/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shwetamishra1910/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/shwetamishra1910/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shwetamishra1910/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
