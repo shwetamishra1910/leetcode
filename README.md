@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shwetamishra1910/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shwetamishra1910/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shwetamishra1910/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/shwetamishra1910/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shwetamishra1910/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/shwetamishra1910/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/shwetamishra1910/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shwetamishra1910/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shwetamishra1910/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/shwetamishra1910/leetcode/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shwetamishra1910/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3663-find-the-least-frequent-digit](https://github.com/shwetamishra1910/leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/shwetamishra1910/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shwetamishra1910/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shwetamishra1910/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shwetamishra1910/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
