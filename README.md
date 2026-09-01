@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/shwetamishra1910/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shwetamishra1910/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/shwetamishra1910/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/shwetamishra1910/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/shwetamishra1910/leetcode/tree/master/0682-baseball-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shwetamishra1910/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shwetamishra1910/leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/shwetamishra1910/leetcode/tree/master/0575-distribute-candies) |
+| [0621-task-scheduler](https://github.com/shwetamishra1910/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0697-degree-of-an-array) |
 | [0763-partition-labels](https://github.com/shwetamishra1910/leetcode/tree/master/0763-partition-labels) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shwetamishra1910/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/shwetamishra1910/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/shwetamishra1910/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/shwetamishra1910/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/shwetamishra1910/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/shwetamishra1910/leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shwetamishra1910/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shwetamishra1910/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/shwetamishra1910/leetcode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/shwetamishra1910/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shwetamishra1910/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shwetamishra1910/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shwetamishra1910/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/shwetamishra1910/leetcode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/shwetamishra1910/leetcode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/shwetamishra1910/leetcode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/shwetamishra1910/leetcode/tree/master/1051-height-checker) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shwetamishra1910/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/shwetamishra1910/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetamishra1910/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shwetamishra1910/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shwetamishra1910/leetcode/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/shwetamishra1910/leetcode/tree/master/1046-last-stone-weight) |
 ## Simulation
 |  |
