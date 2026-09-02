@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shwetamishra1910/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shwetamishra1910/leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/shwetamishra1910/leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/shwetamishra1910/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/shwetamishra1910/leetcode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/shwetamishra1910/leetcode/tree/master/0205-isomorphic-strings) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shwetamishra1910/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/shwetamishra1910/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shwetamishra1910/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/shwetamishra1910/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shwetamishra1910/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
