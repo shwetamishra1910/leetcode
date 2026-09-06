@@ -9,6 +9,7 @@ class Solution {
            List<Integer> list = new ArrayList<>();
            for(int num:nums) list.add(num);
            ans.add(list);
+           return;
         }
 
         for(int i=idx ; i<nums.length; i++){
